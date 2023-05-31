@@ -36,4 +36,7 @@ This project was created by Alycia and is based on the famous Batman logo, prope
 If you encounter any issues with the Batman logo or have suggestions for improvements, feel free to open an issue in this repository or submit a pull request with your changes.
 
 I hope you enjoy this project and can use it as a fun addition to your HTML and CSS work. Have fun creating and exploring different customizations for the Batman logo!
+##
+![2023-05-31](https://github.com/ByAlyck/Animated-Batman/assets/113322342/75dcf356-f681-40fe-91ae-61cf47741794)
+
 
