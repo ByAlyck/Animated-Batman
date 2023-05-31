@@ -29,7 +29,7 @@ Feel free to experiment with different values for these properties and create yo
 
 ## Credits
 
-This project was created by [your name] and is based on the famous Batman logo, property of DC Comics. All rights reserved to DC Comics.
+This project was created by Alycia and is based on the famous Batman logo, property of DC Comics. All rights reserved to DC Comics.
 
 ## Contribution
 
