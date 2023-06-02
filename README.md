@@ -5,7 +5,7 @@ This is a project that creates a representation of the iconic Batman logo using 
 ## Demo
 
 To see the Batman logo in action, you can access the link below:
-[Demo of Batman Logo](https://byalyck.github.io/Animated-Batman/)
+[Batman Logo](https://byalyck.github.io/Animated-Batman/)
 
 ## Instructions
 
