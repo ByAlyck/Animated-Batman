@@ -37,6 +37,6 @@ If you encounter any issues with the Batman logo or have suggestions for improve
 
 I hope you enjoy this project and can use it as a fun addition to your HTML and CSS work. Have fun creating and exploring different customizations for the Batman logo!
 ##
-![2023-05-31](https://github.com/ByAlyck/Animated-Batman/assets/113322342/75dcf356-f681-40fe-91ae-61cf47741794)
+![Batman](https://github.com/ByAlyck/Animated-Batman/assets/113322342/75dcf356-f681-40fe-91ae-61cf47741794)
 
 
